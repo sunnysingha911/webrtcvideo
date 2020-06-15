@@ -1,0 +1,21 @@
+.roomName{
+    display: flex;    
+    align-items: center;
+    justify-content: space-between;
+    flex-basis: 100%;
+    height: 4rem;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.1), 0 3px 6px rgba(0,0,0,0.1);
+}
+
+.close a{
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    padding: 1.5rem;    
+}
+
+.rname{
+    margin-left: 2rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
