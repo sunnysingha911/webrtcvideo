@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/webrtcvideo/static/css/main.ead53d46.chunk.css",
+    "main.js": "/webrtcvideo/static/js/main.d189fe5c.chunk.js",
+    "main.js.map": "/webrtcvideo/static/js/main.d189fe5c.chunk.js.map",
+    "runtime-main.js": "/webrtcvideo/static/js/runtime-main.a3eddbcf.js",
+    "runtime-main.js.map": "/webrtcvideo/static/js/runtime-main.a3eddbcf.js.map",
+    "static/js/2.fbd0147f.chunk.js": "/webrtcvideo/static/js/2.fbd0147f.chunk.js",
+    "static/js/2.fbd0147f.chunk.js.map": "/webrtcvideo/static/js/2.fbd0147f.chunk.js.map",
+    "index.html": "/webrtcvideo/index.html",
+    "precache-manifest.d0c1b14e59b9557d65e8d1fd08051822.js": "/webrtcvideo/precache-manifest.d0c1b14e59b9557d65e8d1fd08051822.js",
+    "service-worker.js": "/webrtcvideo/service-worker.js",
+    "static/css/main.ead53d46.chunk.css.map": "/webrtcvideo/static/css/main.ead53d46.chunk.css.map",
+    "static/js/2.fbd0147f.chunk.js.LICENSE.txt": "/webrtcvideo/static/js/2.fbd0147f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3eddbcf.js",
+    "static/js/2.fbd0147f.chunk.js",
+    "static/css/main.ead53d46.chunk.css",
+    "static/js/main.d189fe5c.chunk.js"
+  ]
+}
